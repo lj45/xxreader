@@ -1,0 +1,3 @@
+
+export const FIRST_LAUNCHED = 'FIRST_LAUNCHED';
+export const UPDATE_TOKEN = 'UPDATE_TOKEN';
